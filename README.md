@@ -1,4 +1,6 @@
 # js-starter-2016
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/motiz88/js-starter-2016.svg)](https://greenkeeper.io/)
 [![travis][travis-image]][travis-url]
 [![npm][npm-image]][npm-url]
 [![coverage][coverage-image]][coverage-url]
